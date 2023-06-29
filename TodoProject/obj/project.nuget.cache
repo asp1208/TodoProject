@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ogsNKmF2aHnWNPvp7N8dP8YmT+5NMxD0bq8wx5HkqVhxApI39qTbi6KErETjauEzr8IrJOQOoobexcRR8UQ6UQ==",
+  "success": true,
+  "projectFilePath": "D:\\универ\\sd\\TodoProject\\TodoProject\\TodoProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Larisa\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
